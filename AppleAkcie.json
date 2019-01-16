@@ -1,0 +1,23 @@
+{
+  "query": {
+  "count: 1,
+  "created": "2016-10-09T05:34:31Z",
+  "lang": "en-US",
+  "results": {
+   "symbol": "AAPL",
+   "AverageDailyVolume": "35386200",
+   "Change": "+0.17",
+   "DaysLow": "113.51",
+   "DaysHigh": "114.56",
+   "YearLow": "89.47",
+   "YearHigh": "123.82",
+   "MarketCapitalization": "614.61B",
+   "LastTradePriceOnly": "114.06",
+   "DaysRange": "113.51 - 114.56",
+   "Name": "Apple Inc.",
+   "Symbol": "AAPL",
+   "Volume": "24358443",
+   "StockExchange": "NMS"
+ },
+ }
+}
