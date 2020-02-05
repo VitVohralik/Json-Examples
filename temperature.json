@@ -1,4 +1,4 @@
-{
+[{
   "temperature": {
     "tool0": {
       "actual": 214.8821,
@@ -65,4 +65,4 @@
       "closedOrError": false
     }
   }
-}
+}]
